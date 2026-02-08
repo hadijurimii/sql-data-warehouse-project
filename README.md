@@ -1,4 +1,4 @@
-# 🏗️ SQL Data Warehouse Project
+# 🏗️ Data Warehouse Project
 
 ## 📌 Project Overview
 This repository contains a SQL-based Data Warehouse project designed to transform raw transactional data into analytics-ready datasets.  
