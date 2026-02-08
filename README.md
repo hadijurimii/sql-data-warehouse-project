@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This repository contains a SQL-based Data Warehouse project designed to transform raw transactional data into analytics-ready datasets.  
+
 The project follows modern data engineering best practices, including layered architecture, star schema modeling, and data quality validation.
 
 The primary objective is to enable reliable reporting and analytics for business users and data analysts.
